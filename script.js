@@ -3,6 +3,6 @@ $("#knop").click(function() {
     if (getal % 2 == 0) {
         $("#uitvoer").text("even");
     } else {
-        $("uitvoer").text("oneven")
+        $("#uitvoer").text("oneven")
     }
 });
