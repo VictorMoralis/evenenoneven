@@ -8,5 +8,5 @@ $("#knop").click(function() {
         }
     }
 } else {
-    $("uitvoer").text("geef een geheel getal in")
+    $("#uitvoer").text("geef een geheel getal in")
 });
